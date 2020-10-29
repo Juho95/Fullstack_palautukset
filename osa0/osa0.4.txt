@@ -9,7 +9,7 @@ Uudelleenohjauspyyntö eli redirectaus, minkä avulla palvelin
 kehottaa selainta tekemään automaattisesti uuden 
 HTTP GET pyynnön
 end note
-selain->palvelin: HTTP GET Request URL: https://studies.cs.helsinki.fi/exampleapp/notes
+selain->palvelin: HTTP GET  https://studies.cs.helsinki.fi/exampleapp/notes
 palvelin-->selain: HTML-koodi
 selain->palvelin: HTTP GET https://studies.cs.helsinki.fi/exampleapp/main.css
 palvelin-->selain: main.css
